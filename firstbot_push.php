@@ -1,6 +1,7 @@
 <?php
 	function flex_msg()
 	{
+		//
 			$json1 = '{
 						"type":"flex",
 						"altText":"Green Office",
