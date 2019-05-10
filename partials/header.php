@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>ระบบบริหารจัดการฐานข้อมูลลูกค้ารายสำคัญและธุรกิจเสริม - สายงานการไฟฟ้า ภาค 4</title>
+    <title>VOC Alert bot - โปรแกรมแจ้งเตือนข้อร้องเรียนอัตโนมัติ</title>
     <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="./assets/css/theme_1545570683953.css">
     <link href="https://fonts.googleapis.com/css?family=Sarabun|Roboto" rel="stylesheet">
