@@ -12,7 +12,7 @@
 												"contents": [
 																{
 																	"type": "text",
-																	"text": "ประชาสัมพันธ์",
+																	"text": "ประชาสัมพันธ์ ประชาสัมพันธ์",
 																	"weight": "bold",
 																	"color": "#B7F4A9",
 																	"align": "center",
