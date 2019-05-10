@@ -4,4 +4,14 @@
 <script src="https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.js"></script>
 <script src="./assets/js/bootstrap-table-sticky-header.min.js"></script>
 <script src="https://d.line-scdn.net/liff/1.0/sdk.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139978749-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-139978749-1');
+</script>
+
 <script src="./scripts/global.js"></script>
